@@ -4,9 +4,17 @@ HTTPAutorec is a handy tool to add transparent disk caching of HTTP response to 
 
 ## Installation
 
-HTTPAutorec is yet to be released on rubygems.org.
+Install it yourself as:
 
-`git clone https://github.com/vzvu3k6k/http_autorec/ && cd http_autorec && bundle && bundle exec rake install`
+    $ gem install http_autorec
+
+Or add this line to your application's Gemfile:
+
+    gem 'http_autorec'
+
+And then execute:
+
+    $ bundle
 
 ## Usage
 
